@@ -1,4 +1,4 @@
 # ApnaGit
 First Git repository
 <br>
-Author - Akhilesh Kumar
+Author - Akhilesh
